@@ -1,0 +1,112 @@
+{
+  "requests": [
+    {
+      "date": "23.04.2023, 13:54:02",
+      "name": "Сильвестр Сталлоне",
+      "phone": "+7 (903) 456-78-90",
+      "email": "stallone@mail.com",
+      "product": "course-wordpress",
+      "status": "complete",
+      "id": 8
+    },
+    {
+      "date": "23.04.2023, 21:33:46",
+      "name": "Мэл Гибсон",
+      "phone": "+7 (914) 745-23-70",
+      "email": "gibson@mail.com",
+      "product": "course-php",
+      "status": "inwork",
+      "id": 9
+    },
+    {
+      "date": "23.04.2023, 21:35:12",
+      "name": "Дуэйн Джонсон",
+      "phone": "+7 (915) 209-80-91",
+      "email": "johnson@mail.com",
+      "product": "course-html",
+      "status": "new",
+      "id": 11
+    },
+    {
+      "date": "23.04.2023, 23:09:46",
+      "name": "Джон Траволта",
+      "phone": "+7 (913) 332-45-03",
+      "email": "travolta@mail.com",
+      "product": "course-vue",
+      "status": "complete",
+      "id": 12
+    },
+    {
+      "date": "23.04.2023, 23:10:56",
+      "name": "Скарлетт Йохансон",
+      "phone": "+7 (904) 198-72-63",
+      "email": "johanson@mail.com",
+      "product": "course-php",
+      "status": "new",
+      "id": 13
+    },
+    {
+      "date": "23.04.2023, 23:43:04",
+      "name": "Гарри Олдман",
+      "phone": "+7 (912) 761-09-82",
+      "email": "oldman@mail.com",
+      "product": "course-js",
+      "status": "complete",
+      "id": 14
+    },
+    {
+      "date": "23.04.2023, 23:43:55",
+      "name": "Брэд Питт",
+      "phone": "+7 (909) 109-09-88",
+      "email": "pitt@mail.com",
+      "product": "course-php",
+      "status": "inwork",
+      "id": 15
+    },
+    {
+      "date": "23.04.2023, 23:45:57",
+      "name": "Брэдли Купер",
+      "phone": "+7 (910) 892-34-10",
+      "email": "cooper@mail.com",
+      "product": "course-wordpress",
+      "status": "new",
+      "id": 18
+    },
+    {
+      "date": "23.04.2023, 23:46:51",
+      "name": "Николаc Кейдж",
+      "phone": "+7 (905) 678-91-34",
+      "email": "cage@mail.com",
+      "product": "course-wordpress",
+      "status": "inwork",
+      "id": 22
+    },
+    {
+      "date": "24.04.2023, 16:54:56",
+      "name": "Борис Бритва",
+      "phone": "+7 (911) 440-77-19",
+      "email": "britva@mail.com",
+      "product": "course-html",
+      "status": "new",
+      "id": 27
+    },
+    {
+      "date": "24.04.2023, 23:59:09",
+      "name": "Гарри Олдман",
+      "phone": "+7 (912) 761-09-82",
+      "email": "oldman@mail.com",
+      "product": "course-js",
+      "status": "new",
+      "id": 28
+    },
+    {
+      "date": "25.04.2023, 00:00:23",
+      "name": "Джек Николсон",
+      "phone": "+7 (907) 560-90-11",
+      "email": "nicholson@mail.com",
+      "product": "course-js",
+      "status": "complete",
+      "id": 29
+    }
+  ]
+}
